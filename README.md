@@ -17,7 +17,7 @@ Comunicaciones de los ciudadanos. Hay de dos tipos, una que es para indicar un d
 Identificador, tipo de petición, tema, subtema, fecha alta, fecha cierre, canal entrada, canal respuesta.
 
 ### Afectado LOPD
-NO
+No
 
 ### Transparencia
 Sí
