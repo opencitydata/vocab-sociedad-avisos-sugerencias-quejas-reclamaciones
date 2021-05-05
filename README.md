@@ -1,0 +1,1 @@
+# vocab-sociedad-avisos-sugerencias-quejas-reclamaciones
